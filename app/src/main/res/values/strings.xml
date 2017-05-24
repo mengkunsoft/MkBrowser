@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">浏览器</string>
+
+    <string name="input_url">请输入网址</string>
+
+    <string name="home_url">http://mkblog.cn</string>
+
+    <string name="go_forward">前进</string>
+    <string name="go_back">后退</string>
+    <string name="web_refresh">刷新</string>
+    <string name="go_home">主页</string>
+</resources>
